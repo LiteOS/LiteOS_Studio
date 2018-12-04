@@ -5,7 +5,7 @@ LiteOS Studio是基于LiteOS嵌入式系统软件开发的工具。它提供了�
 
 <h2 id="LiteOS-Studio使用指南.md">LiteOS Studio使用指南</h2>
 
-[LiteOS Studio 使用指南](https://github.com/LiteOS/LiteOS_Studio/doc/LiteOS Studio 使用指南.md)
+[LiteOS Studio 使用指南](https://github.com/LiteOS/LiteOS_Studio/doc/LiteOS_Studio_使用指南.md)
 
 该文档详细介绍了LiteOS Studio的安装及使用方法。
 
