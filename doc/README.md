@@ -1,7 +1,7 @@
 
 <h2 id="LiteOS-Studio简介.md">LiteOS Studio简介</h2>
 
-LiteOS Studio是基于LiteOS嵌入式系统软件开发的工具。它提供了代码编辑、编译、烧录、调试及Trace跟踪等功能，可以对系统关键数据进行实时跟踪及保存与回放。
+LiteOS Studio是基于LiteOS轻量级操作系统开发的工具，它提供了代码编辑、编译、烧录、调试及Trace跟踪等功能，可以对系统关键数据进行实时跟踪及保存与回放。
 
 <h2 id="LiteOS-Studio使用指南.md">LiteOS Studio使用指南</h2>
 
