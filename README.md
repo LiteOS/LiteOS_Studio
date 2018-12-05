@@ -11,5 +11,4 @@ LiteOS Studio是基于LiteOS嵌入式系统软件开发的工具。它提供了�
 
 <h2 id="在线反馈.md">在线反馈</h2>
 
-感谢您使用LiteOS Studio工具，如遇到任何问题或有任何建议，请随时向我们反馈，我们将及时为您解决。
-
+感谢您使用LiteOS Studio工具，如遇到任何问题或有任何建议，请随时向我们[反馈](https://github.com/LiteOS/LiteOS_Studio/issues/new)，我们将帮助您解决。
