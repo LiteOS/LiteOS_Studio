@@ -5,9 +5,7 @@ LiteOS Studio是基于LiteOS轻量级操作系统开发的工具。它提供了�
 
 <h2>LiteOS Studio工具下载</h2>
 
-请点击 [LiteOS Studio](https://developer.huawei.com/ict/cn/rescenter/CMDA_FIELD_LITE_OS?developlan=Other) 链接进行下载。
-
-目前该版本为受限下载，下载前请先进行申请，申请方式见下载地址弹出提示信息。
+目前该版本为受限下载，下载前请先进行申请，申请邮箱为liteos@huawei.com。
 
 <h2 id="在线反馈.md">在线反馈</h2>
 
